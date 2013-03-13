@@ -3,4 +3,7 @@ huts
 threadgills
 McDonald's
 hat creek
+whataburger
+burger king
+jack in the box
 
